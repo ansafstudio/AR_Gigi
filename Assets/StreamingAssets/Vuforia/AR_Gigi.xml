@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Faktor" size="200.000000 283.329346" />
+    <ImageTarget name="PencegahKaries" size="200.000000 282.903229" />
+    <ImageTarget name="StrukturGigi" size="200.000000 200.000000" />
+    <ImageTarget name="prosesKaries" size="200.000000 283.329346" />
+    <ImageTarget name="Marker" size="200.000000 265.020569" />
+  </Tracking>
+</QCARConfig>
